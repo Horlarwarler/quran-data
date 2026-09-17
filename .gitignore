@@ -1,0 +1,4 @@
+*
+!.gitignore
+!data/quran.json
+!data/quran_config.json
