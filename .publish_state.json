@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "purge_paths": [
+    "quran_config.json",
+    "quran.json"
+  ],
+  "settings": {
+    "github_user": "Horlarwarler",
+    "github_repo": "quran-data",
+    "github_branch": "main",
+    "output_dir": "data"
+  }
+}
