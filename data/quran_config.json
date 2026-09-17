@@ -11,7 +11,7 @@
     "forceUpdate": false,
     "updateInfo": null
   },
-  "surah_updated_version": 1,
+  "surah_updated_version": 2,
   "quran_audio_link_url": "https://jobspotcanada.com/yoruba_audio",
-  "quran_json_link_url": "https://cdn.jsdelivr.net/gh/Horlarwarler/quran-data@main/data/releases/quran_v1.json"
+  "quran_json_link_url": "https://cdn.jsdelivr.net/gh/Horlarwarler/quran-data@main/data/releases/quran_v2.json"
 }
