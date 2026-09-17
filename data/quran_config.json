@@ -1,0 +1,17 @@
+{
+  "iosUpdateInfo": {
+    "version": 1,
+    "versionName": "1.0.0",
+    "forceUpdate": false,
+    "updateInfo": null
+  },
+  "androidUpdateInfo": {
+    "version": 2,
+    "versionName": "1.0.0",
+    "forceUpdate": false,
+    "updateInfo": null
+  },
+  "surah_updated_version": 1,
+  "quran_audio_link_url": "https://jobspotcanada.com/yoruba_audio",
+  "quran_json_link_url": "https://cdn.jsdelivr.net/gh/Horlarwarler/quran-data@main/data/releases/quran_v1.json"
+}
